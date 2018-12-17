@@ -1,0 +1,13 @@
+..\obj\stmflash.o: ..\HARDWARE\STMFLASH\stmflash.c
+..\obj\stmflash.o: ..\HARDWARE\STMFLASH\stmflash.h
+..\obj\stmflash.o: ..\SYSTEM\sys\sys.h
+..\obj\stmflash.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\stmflash.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\stmflash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stmflash.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\stmflash.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\stmflash.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\stmflash.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\stmflash.o: ..\SYSTEM\delay\delay.h
+..\obj\stmflash.o: ..\SYSTEM\usart\usart.h
+..\obj\stmflash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
